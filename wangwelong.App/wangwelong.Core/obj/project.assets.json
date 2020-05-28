@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwelong.Core.csproj",
-      "projectName": "wangwelong.Core",
-      "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwelong.Core.csproj",
+      "projectUniqueName": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwenlong.Core.csproj",
+      "projectName": "wangwenlong.Core",
+      "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwenlong.Core.csproj",
       "packagesPath": "C:\\Users\\long\\.nuget\\packages\\",
       "outputPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\obj\\",
       "projectStyle": "PackageReference",

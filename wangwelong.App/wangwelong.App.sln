@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wangwelong.Console", "wangwelong.Console\wangwelong.Console.csproj", "{078EA8FA-B86B-4DED-AF3C-255804297FFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wangwenlong.Console", "wangwelong.Console\wangwenlong.Console.csproj", "{078EA8FA-B86B-4DED-AF3C-255804297FFC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wangwenlong.DAL", "wangwenlong.DAL\wangwenlong.DAL.csproj", "{275675E8-786C-4F40-A16D-C84CC9FC114C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wangwelong.BLL", "wangwelong.BLL\wangwelong.BLL.csproj", "{D822AE43-1656-4381-9D7F-ED5FB32BC0FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wangwenlong.BLL", "wangwelong.BLL\wangwenlong.BLL.csproj", "{D822AE43-1656-4381-9D7F-ED5FB32BC0FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wangwelong.Core", "wangwelong.Core\wangwelong.Core.csproj", "{20E4BF58-53D2-4E34-B620-E5B1EBDE9982}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wangwenlong.Core", "wangwelong.Core\wangwenlong.Core.csproj", "{20E4BF58-53D2-4E34-B620-E5B1EBDE9982}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wangwenlong.Web", "wangwenlong.Web\wangwenlong.Web.csproj", "{1FAA7729-DBD5-4182-BE8B-FB3914731FAB}"
 EndProject

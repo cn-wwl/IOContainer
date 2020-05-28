@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwelong.BLL.csproj": {}
+    "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwenlong.BLL.csproj": {}
   },
   "projects": {
-    "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwelong.BLL.csproj": {
+    "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwenlong.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwelong.BLL.csproj",
-        "projectName": "wangwelong.BLL",
-        "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwelong.BLL.csproj",
+        "projectUniqueName": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwenlong.BLL.csproj",
+        "projectName": "wangwenlong.BLL",
+        "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwenlong.BLL.csproj",
         "packagesPath": "C:\\Users\\long\\.nuget\\packages\\",
         "outputPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\obj\\",
         "projectStyle": "PackageReference",

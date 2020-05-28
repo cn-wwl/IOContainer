@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "wangwelong.BLL/1.0.0": {
+      "wangwenlong.BLL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "wangwelong.Core": "1.0.0",
+          "wangwenlong.Core": "1.0.0",
           "wangwenlong.DAL": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/wangwelong.BLL.dll": {}
+          "bin/placeholder/wangwenlong.BLL.dll": {}
         },
         "runtime": {
-          "bin/placeholder/wangwelong.BLL.dll": {}
+          "bin/placeholder/wangwenlong.BLL.dll": {}
         }
       },
-      "wangwelong.Core/1.0.0": {
+      "wangwenlong.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/wangwelong.Core.dll": {}
+          "bin/placeholder/wangwenlong.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/wangwelong.Core.dll": {}
+          "bin/placeholder/wangwenlong.Core.dll": {}
         }
       },
       "wangwenlong.DAL/1.0.0": {
@@ -39,15 +39,15 @@
     }
   },
   "libraries": {
-    "wangwelong.BLL/1.0.0": {
+    "wangwenlong.BLL/1.0.0": {
       "type": "project",
-      "path": "../wangwelong.BLL/wangwelong.BLL.csproj",
-      "msbuildProject": "../wangwelong.BLL/wangwelong.BLL.csproj"
+      "path": "../wangwelong.BLL/wangwenlong.BLL.csproj",
+      "msbuildProject": "../wangwelong.BLL/wangwenlong.BLL.csproj"
     },
-    "wangwelong.Core/1.0.0": {
+    "wangwenlong.Core/1.0.0": {
       "type": "project",
-      "path": "../wangwelong.Core/wangwelong.Core.csproj",
-      "msbuildProject": "../wangwelong.Core/wangwelong.Core.csproj"
+      "path": "../wangwelong.Core/wangwenlong.Core.csproj",
+      "msbuildProject": "../wangwelong.Core/wangwenlong.Core.csproj"
     },
     "wangwenlong.DAL/1.0.0": {
       "type": "project",
@@ -57,8 +57,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "wangwelong.BLL >= 1.0.0",
-      "wangwelong.Core >= 1.0.0",
+      "wangwenlong.BLL >= 1.0.0",
+      "wangwenlong.Core >= 1.0.0",
       "wangwenlong.DAL >= 1.0.0"
     ]
   },
@@ -69,9 +69,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Console\\wangwelong.Console.csproj",
+      "projectUniqueName": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Console\\wangwenlong.Console.csproj",
       "projectName": "wangwelong.ConsoleApp",
-      "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Console\\wangwelong.Console.csproj",
+      "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Console\\wangwenlong.Console.csproj",
       "packagesPath": "C:\\Users\\long\\.nuget\\packages\\",
       "outputPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Console\\obj\\",
       "projectStyle": "PackageReference",
@@ -92,11 +92,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwelong.BLL.csproj": {
-              "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwelong.BLL.csproj"
+            "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwenlong.BLL.csproj": {
+              "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwenlong.BLL.csproj"
             },
-            "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwelong.Core.csproj": {
-              "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwelong.Core.csproj"
+            "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwenlong.Core.csproj": {
+              "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwenlong.Core.csproj"
             },
             "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwenlong.DAL\\wangwenlong.DAL.csproj": {
               "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwenlong.DAL\\wangwenlong.DAL.csproj"

@@ -2,14 +2,14 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "wangwelong.Core/1.0.0": {
+      "wangwenlong.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/wangwelong.Core.dll": {}
+          "bin/placeholder/wangwenlong.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/wangwelong.Core.dll": {}
+          "bin/placeholder/wangwenlong.Core.dll": {}
         }
       },
       "wangwenlong.DAL/1.0.0": {
@@ -25,10 +25,10 @@
     }
   },
   "libraries": {
-    "wangwelong.Core/1.0.0": {
+    "wangwenlong.Core/1.0.0": {
       "type": "project",
-      "path": "../wangwelong.Core/wangwelong.Core.csproj",
-      "msbuildProject": "../wangwelong.Core/wangwelong.Core.csproj"
+      "path": "../wangwelong.Core/wangwenlong.Core.csproj",
+      "msbuildProject": "../wangwelong.Core/wangwenlong.Core.csproj"
     },
     "wangwenlong.DAL/1.0.0": {
       "type": "project",
@@ -38,7 +38,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "wangwelong.Core >= 1.0.0",
+      "wangwenlong.Core >= 1.0.0",
       "wangwenlong.DAL >= 1.0.0"
     ]
   },
@@ -49,9 +49,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwelong.BLL.csproj",
-      "projectName": "wangwelong.BLL",
-      "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwelong.BLL.csproj",
+      "projectUniqueName": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwenlong.BLL.csproj",
+      "projectName": "wangwenlong.BLL",
+      "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\wangwenlong.BLL.csproj",
       "packagesPath": "C:\\Users\\long\\.nuget\\packages\\",
       "outputPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.BLL\\obj\\",
       "projectStyle": "PackageReference",
@@ -72,8 +72,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwelong.Core.csproj": {
-              "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwelong.Core.csproj"
+            "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwenlong.Core.csproj": {
+              "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwelong.Core\\wangwenlong.Core.csproj"
             },
             "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwenlong.DAL\\wangwenlong.DAL.csproj": {
               "projectPath": "D:\\Code\\github\\IOContainer\\wangwelong.App\\wangwenlong.DAL\\wangwenlong.DAL.csproj"
