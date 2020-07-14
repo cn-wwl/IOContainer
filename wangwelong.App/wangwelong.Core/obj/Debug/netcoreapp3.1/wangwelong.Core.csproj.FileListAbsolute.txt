@@ -1,9 +1,0 @@
-D:\Code\wangwelong.App\wangwelong.Core\bin\Debug\netcoreapp3.1\wangwelong.Core.deps.json
-D:\Code\wangwelong.App\wangwelong.Core\bin\Debug\netcoreapp3.1\wangwelong.Core.dll
-D:\Code\wangwelong.App\wangwelong.Core\bin\Debug\netcoreapp3.1\wangwelong.Core.pdb
-D:\Code\wangwelong.App\wangwelong.Core\obj\Debug\netcoreapp3.1\wangwelong.Core.csprojAssemblyReference.cache
-D:\Code\wangwelong.App\wangwelong.Core\obj\Debug\netcoreapp3.1\wangwelong.Core.csproj.CoreCompileInputs.cache
-D:\Code\wangwelong.App\wangwelong.Core\obj\Debug\netcoreapp3.1\wangwelong.Core.AssemblyInfoInputs.cache
-D:\Code\wangwelong.App\wangwelong.Core\obj\Debug\netcoreapp3.1\wangwelong.Core.AssemblyInfo.cs
-D:\Code\wangwelong.App\wangwelong.Core\obj\Debug\netcoreapp3.1\wangwelong.Core.dll
-D:\Code\wangwelong.App\wangwelong.Core\obj\Debug\netcoreapp3.1\wangwelong.Core.pdb

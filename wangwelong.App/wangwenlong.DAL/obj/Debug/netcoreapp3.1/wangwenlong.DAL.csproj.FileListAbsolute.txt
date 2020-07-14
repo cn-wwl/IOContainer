@@ -7,3 +7,12 @@ D:\Code\wangwelong.App\wangwenlong.DAL\bin\Debug\netcoreapp3.1\wangwenlong.DAL.d
 D:\Code\wangwelong.App\wangwenlong.DAL\bin\Debug\netcoreapp3.1\wangwenlong.DAL.pdb
 D:\Code\wangwelong.App\wangwenlong.DAL\obj\Debug\netcoreapp3.1\wangwenlong.DAL.dll
 D:\Code\wangwelong.App\wangwenlong.DAL\obj\Debug\netcoreapp3.1\wangwenlong.DAL.pdb
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\bin\Debug\netcoreapp3.1\wangwenlong.DAL.deps.json
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\bin\Debug\netcoreapp3.1\wangwenlong.DAL.dll
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\bin\Debug\netcoreapp3.1\wangwenlong.DAL.pdb
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\obj\Debug\netcoreapp3.1\wangwenlong.DAL.csprojAssemblyReference.cache
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\obj\Debug\netcoreapp3.1\wangwenlong.DAL.AssemblyInfoInputs.cache
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\obj\Debug\netcoreapp3.1\wangwenlong.DAL.AssemblyInfo.cs
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\obj\Debug\netcoreapp3.1\wangwenlong.DAL.csproj.CoreCompileInputs.cache
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\obj\Debug\netcoreapp3.1\wangwenlong.DAL.dll
+D:\Code\github\IOContainer\wangwelong.App\wangwenlong.DAL\obj\Debug\netcoreapp3.1\wangwenlong.DAL.pdb
